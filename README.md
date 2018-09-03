@@ -9,3 +9,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT01 Introduzione ✅
 - BT02 Game Design Document (GDD) ✅
 - BT03 Creazione Repository GitHub ✅
+- BT04 Crea e controlla i Pauesaggi (Landscapes) ✅
