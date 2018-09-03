@@ -5,4 +5,5 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 
 ## Lista lezioni
 
-- BT01 Introduzione
+- BT01 Introduzione ✅
+- BT02 Repository GitHub ✅
