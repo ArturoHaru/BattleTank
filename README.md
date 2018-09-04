@@ -14,3 +14,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT06 Dettagli e strumenti dei LandScapes ✅
 - BT07 Aggiornamento 4.11 non effettuato (sono in versione 4.20)
 - BT08 Creazione di Texture e Painting della mappa ✅
+- BT09 Ho imparato a creare un mondo in bassa qualità ma ho scelto di continuare con l'hight quality ✅
