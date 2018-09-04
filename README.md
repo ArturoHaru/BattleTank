@@ -12,3 +12,5 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT04 Crea e controlla i Paesaggi (Landscapes) ✅
 - BT05 Scala, prestazioni e dettagli dei Landscapes ✅
 - BT06 Dettagli e strumenti dei LandScapes ✅
+- BT07 Aggiornamento 4.11 non effettuato (sono in versione 4.20)
+- BT08 Creazione di Texture e Painting della mappa ✅
