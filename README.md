@@ -10,3 +10,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT02 Game Design Document (GDD) ✅
 - BT03 Creazione Repository GitHub ✅
 - BT04 Crea e controlla i Paesaggi (Landscapes) ✅
+- BT05 Scala, prestazioni e dettagli dei Landscapes ✅
