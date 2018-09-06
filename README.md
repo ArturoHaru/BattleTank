@@ -17,3 +17,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT09 Ho imparato a creare un mondo in bassa qualità ma ho scelto di continuare con l'hight quality ✅
 - BT10 Ho sostituito le texture a tinta unita con effettive texture ambientali ✅
 - BT11 Ho importato le Mesh del carroarmato, l'ho assemblato ed ho creato una nuova GameMode in Blueprint impostando il carroarmato come pedone ✅
+- BT12 Creato telecamera in terza persona e fatto in modo che ruotasse (Presente un bug)✅
