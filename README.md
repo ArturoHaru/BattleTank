@@ -22,3 +22,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT14 Si inizia con l'HUD ✅
 - BT15 Creazione del Menu di gioco ✅
 - BT16 Menu di gioco terminato ✅
+- BT17 Ho finalmente creato le classi c++ da associare ai blueprint✅
