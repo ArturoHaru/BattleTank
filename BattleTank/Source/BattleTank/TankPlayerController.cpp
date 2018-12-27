@@ -2,6 +2,8 @@
 
 #include "TankPlayerController.h"
 
+#define OUT
+
 void ATankPlayerController::BeginPlay() {
 
 	Super::BeginPlay();
@@ -54,9 +56,35 @@ bool ATankPlayerController::GetSightRayHitLocation(FVector& HitLocation) const {
 	int32 ViewportSizeX, ViewportSizeY;
 	GetViewportSize(ViewportSizeX, ViewportSizeY);
 	auto ScreenLocation = FVector2D(ViewportSizeX * CrosshairXLocation, ViewportSizeY * CrosshairYLocation);
-	UE_LOG(LogTemp, Warning, TEXT("ScreenLocation: %s"), *ScreenLocation.ToString());
+
+
 	//"De-project" the screen position of the crosshair to a world direction 
-	//Line trace long that direction and see what we hit
+	FVector LookDirection;
+	if(GetLookDirection(ScreenLocation, OUT LookDirection))
+	{
+		UE_LOG(LogTemp, Warning, TEXT("You are looking: %s"), *LookDirection.ToString());
+	}
+
+	//Line trace long that LookDirection, and see what we hit
 	return true;
+
+}
+
+bool ATankPlayerController::GetLookDirection(FVector2D ScreenLocation, FVector& WorldDirection) const {
+
+	FVector WorldLocation; //To discarge
+
+	return DeprojectScreenPositionToWorld(
+
+		ScreenLocation.X,
+		ScreenLocation.Y,
+		OUT WorldLocation,
+		OUT WorldDirection
+	);
+
+		
+
+	
+
 
 }
