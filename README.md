@@ -25,3 +25,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT17 Ho finalmente creato le classi c++ da associare ai blueprint✅
 - BT18 Ho creato le classi delle AI dei carriarmati ed ora riconoscono quello del giocatore✅
 - BT19 Ho preparato il metodo per il mirino, la balistica ed il movimento del cannone✅
+- BT20 Test con parametri finti sulle coordinate che punta il mirino✅
