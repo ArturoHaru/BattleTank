@@ -28,3 +28,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT20 Test con parametri finti sulle coordinate che punta il mirino ✅
 - BT21 Preparo il metodo per il calcolo della direzione nella quale punta il mirino ✅
 - BT22 Ottengo finalmente la direzione in cui sto guardando ✅
+- BT23 Ora il gioco capisce quando il mirino sta colpendo qualcosa oppure il cielo ✅
