@@ -1,5 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
+
 #include "Tank.h"
 
 
@@ -10,7 +11,7 @@ ATank::ATank()
 	PrimaryActorTick.bCanEverTick = true;
 
 	//No need to protect pointers as added at contruction
-	TankAimingComponent = CreareDefaultSubObject<>
+	TankAimingComponent = CreateDefaultSubobject<UTankAimingComponent>(FName("Aiming Component"));
 }
 
 // Called when the game starts or when spawned
@@ -35,8 +36,6 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 }
 
 void ATank::AimAt(FVector HitLocation) {
-
-
-	FString OurTankName = GetName();
-	UE_LOG(LogTemp, Warning, TEXT("%s aiming at %s "), *OurTankName, *HitLocation.ToString());
+	
+	TankAimingComponent->AimAt(HitLocation);
 }
