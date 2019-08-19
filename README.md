@@ -32,3 +32,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT24 Conosco in che direzione ogni carroarmato sta guardando ✅
 - BT25 Ho creato un componente a parte per mirare ✅
 - BT26 Ora conosco la posizione iniziale di ogni cannone ✅
+- BT27 Ora so dove atterrerà il proiettile sparato dal cannone ✅
