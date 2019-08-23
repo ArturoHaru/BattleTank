@@ -1,4 +1,4 @@
-# BattleTank
+﻿# BattleTank
 Un semplice open world, dove si scontrano carriarmati.
 
 Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontato del 92%
@@ -33,3 +33,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT25 Ho creato un componente a parte per mirare ✅
 - BT26 Ora conosco la posizione iniziale di ogni cannone ✅
 - BT27 Ora so dove atterrerà il proiettile sparato dal cannone ✅
+- BT28 Preparativi per far muovere il cannone insieme alla visuale ✅
