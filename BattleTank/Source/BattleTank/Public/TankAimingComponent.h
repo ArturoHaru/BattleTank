@@ -6,7 +6,10 @@
 #include "Kismet/GameplayStatics.h"
 #include "TankAimingComponent.generated.h"
 
-class UTankBarrel; //Forward Declaretion
+//Forward Declaretion
+class UTankBarrel; 
+
+//Helds barrel's property and Elevate Method
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class BATTLETANK_API UTankAimingComponent : public UActorComponent

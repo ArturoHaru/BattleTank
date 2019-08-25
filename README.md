@@ -35,3 +35,4 @@ Vi consiglio il corso di Unreal Engine che sto seguendo, potete trovarlo scontat
 - BT27 Ora so dove atterrerà il proiettile sparato dal cannone ✅
 - BT28 Preparativi per far muovere il cannone insieme alla visuale ✅
 - BT29 Ho creato una classe per il cannone ed ho inserito diverse Forward Declaretion✅
+- BT30 Aggiunte proprietà alla cannone modificabili da Unreal✅
